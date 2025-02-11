@@ -1,7 +1,7 @@
-> <p align="center">
->     <img src="https://github.com/malloryhayr/malloryhayr/assets/22878174/e6395a7c-39c6-4f18-9b13-67aac399940a">
->     i make computers do things sometimes
-> </p>
+<p align="center">
+    <img src="https://github.com/malloryhayr/malloryhayr/assets/22878174/e6395a7c-39c6-4f18-9b13-67aac399940a">
+    i make computers do things sometimes
+</p>
 
 <!-- <a href="https://discord.com/users/182292736790102017" target="_blank">
     <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/182292736790102017?bg=161B22&borderRadius=5px%205px%200%200&hideDiscrim=true&idleMessage=idling...">
