@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="https://github.com/malloryhayr/malloryhayr/assets/22878174/e6395a7c-39c6-4f18-9b13-67aac399940a">
-    i make computers do things sometimes
+    <img src="https://github.com/wiidotmom/wiidotmom/assets/22878174/e6395a7c-39c6-4f18-9b13-67aac399940a">
 </p>
 
 <!-- <a href="https://discord.com/users/182292736790102017" target="_blank">
